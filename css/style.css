@@ -1,0 +1,292 @@
+* {
+    font-family: 'Roboto', sans-serif;
+  }
+
+body {
+    margin: 0 0 0 0;
+    font-family: 'Open Sans', sans-serif;
+    background-color: black;
+}
+
+.main {
+    height: 1257px;
+    background-image: url(../img/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header {
+    margin: 0;
+}
+
+.header-line {
+    position: absolute;
+    width: 2240px;
+    height: 201.63px;
+    left: 1px;
+    top: -0.09px;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.header-logo {
+    background: url(st,small,507x507-pad,600x600,f8f8f8.jpg);
+    mix-blend-mode: darken;
+    margin: 57px 1144px 56px 300px;
+}
+
+.menu {
+    position: absolute;
+    margin: 0px 300px 56px 1450px;
+}
+
+.header-main {
+    display: flex;
+    justify-content: center;
+}
+
+.main-text {
+    font-family: 'Play';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 74px;
+    color: #FFFFFF;
+    margin: 940px 264px 5px 264px;
+}
+
+.main-suptext {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 44px;
+    color: rgba(255, 255, 255, 0.4);
+    margin: 0px auto 10px 1870px;
+}
+
+.information {
+    height: 1042.56px;
+    top: 1124px;
+    background-color: black;
+}
+
+.line {
+    background: #1D1D1D;
+    height: 119.61px;
+}
+
+.main-line {
+    position: absolute;
+    height: 201px;
+    width: 2240px;
+}
+
+.text {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 55px;
+    line-height: 82px;
+    color: #FFFFFF;
+    padding: 25px;
+    width: 1400px;
+    margin-left: 300px;
+}
+
+.information-text {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 53px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF; 
+    margin: 50px 50px auto 250px;   
+}
+
+.inf-a {
+    color: #009CF3;
+}
+
+.inf-img {
+    margin-left: 400px;
+    width: 500px;
+}
+
+.inf-line {
+    background: #1D1D1D;
+    height: 119.61px;
+    margin-top: 200px;
+}
+
+.inf-line2 {
+    background: #1D1D1D;
+    height: 119.61px;
+    margin-top: 300px;
+}
+
+.inf-line3 {
+    background: #1D1D1D;
+    height: 119.61px;
+    margin-top: 300px;
+}
+
+.inf-line4 {
+    background: #1D1D1D;
+    height: 119.61px;
+    margin-top: 650px;
+}
+
+.pause {
+    height: 700px;
+    background-image: url(../img/bg1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 970px 0 0 0;
+    width: 2240px;
+}
+
+.pause-text {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 95px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    margin-left: 340px;
+    padding-top: 110px;
+}
+
+.pause2 {
+    height: 800px;
+    background-color: black;
+    width: 2240px;
+}
+
+.pause2-text {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 95px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    margin-left: 450px;
+    padding-top: 170px;
+}
+
+.information2 {
+    height: 500px;
+}
+
+.inf-line5 {
+    background: #1D1D1D;
+    height: 119.61px;
+    margin-top: 0px;
+}
+
+.inf-line6 {
+    background: #1D1D1D;
+    height: 119.61px;
+    margin-top: 0px;
+}
+
+.inf-line7 {
+    background: #1D1D1D;
+    height: 119.61px;
+    margin-top: 750px;
+}
+
+.visnovok {
+    height: 1000px;
+    width: 2240px;
+    background-image: url(../img/anti\ mage\ and\ wraith\ king\ 1.png);
+    margin-top: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.visnovok-text {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 95px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    margin-left: 860px;
+    padding-top: 350px;
+}
+
+.visnovok2 {
+    height: 1650px;
+    width: 2240px;
+}
+
+.visnovok-text2 {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 95px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    margin-left: 250px;
+    padding-top: 0px;
+}
+
+.vis-img {
+    margin-left: 350px;
+}
+
+footer {
+    height: 520px;
+    width: 2243px;
+    background: #1D1D1D;
+}
+
+
+.header-line9 {
+    position: absolute;
+    width: 2240px;
+    height: 201.63px;
+    left: 1px;
+    top: -0.09px;
+}
+
+.kontakt {
+    display: absolute;
+    font-family: 'Play';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+display: flex;
+align-items: center;
+text-align: center;
+margin-left: 25px;
+color: #A5A5A5;
+margin-top: 14240px;
+}
+
+.kontact-logo {
+mix-blend-mode: darken;
+float: right;
+margin-left: 1450px;
+}
+
+.kontakt-text {
+    color: #A5A5A5;
+    font-size: 30px;
+    margin-left: 1950px;
+}
